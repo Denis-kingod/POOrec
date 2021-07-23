@@ -1,0 +1,25 @@
+@{ViewData["Title"]
+    = "Login";
+}
+
+<form method="POST" action='@Url.Action("Logar")'>
+    <div>
+        <div>
+            <label for="">Nome</label>
+            <input type="text">
+        </div>
+
+        <div>
+            <label for="">Email</label>
+            <input type="email" name="" id="">
+        </div>
+
+        <div>
+            <label for="">Senha</label>
+            <input type="password" name="" id="">
+        </div>
+
+    </div>
+
+    <button type="submit">Entrar</button>
+</form>

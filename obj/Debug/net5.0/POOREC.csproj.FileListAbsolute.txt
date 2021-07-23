@@ -9,7 +9,6 @@ C:\Users\Dev\Desktop\POOREC\bin\Debug\net5.0\ref\POOREC.dll
 C:\Users\Dev\Desktop\POOREC\bin\Debug\net5.0\POOREC.pdb
 C:\Users\Dev\Desktop\POOREC\bin\Debug\net5.0\POOREC.Views.dll
 C:\Users\Dev\Desktop\POOREC\bin\Debug\net5.0\POOREC.Views.pdb
-C:\Users\Dev\Desktop\POOREC\obj\Debug\net5.0\POOREC.csprojAssemblyReference.cache
 C:\Users\Dev\Desktop\POOREC\obj\Debug\net5.0\POOREC.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Dev\Desktop\POOREC\obj\Debug\net5.0\POOREC.AssemblyInfoInputs.cache
 C:\Users\Dev\Desktop\POOREC\obj\Debug\net5.0\POOREC.AssemblyInfo.cs
@@ -38,3 +37,5 @@ C:\Users\Dev\Desktop\POOREC\obj\Debug\net5.0\ref\POOREC.dll
 C:\Users\Dev\Desktop\POOREC\obj\Debug\net5.0\POOREC.pdb
 C:\Users\Dev\Desktop\POOREC\obj\Debug\net5.0\POOREC.genruntimeconfig.cache
 C:\Users\Dev\Desktop\POOREC\obj\Debug\net5.0\POOREC.csproj.CopyComplete
+C:\Users\dev\Desktop\POOrec\obj\Debug\net5.0\POOREC.csproj.AssemblyReference.cache
+C:\Users\dev\Desktop\POOrec\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
